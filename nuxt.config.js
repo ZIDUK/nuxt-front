@@ -26,7 +26,7 @@ module.exports = {
   loading: { color: '#fff' },
   generate: {
     fallback: true
-  }
+  },
   /*
   ** Global CSS
   */
